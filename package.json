@@ -1,0 +1,22 @@
+{
+  "name": "coach",
+  "version": "1.0.0",
+  "description": "A simple lifecoach app to budget your time",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.6.5",
+    "babel-loader": "^6.2.4",
+    "webpack": "^1.12.14"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "webpack"
+  },
+  "author": "Greg Inman",
+  "license": "MIT"
+}
